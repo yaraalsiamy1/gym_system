@@ -25,3 +25,13 @@ This project demonstrates basic system automation and data management using shel
 
 ```bash
 bash gym_management_system.sh
+```
+
+
+## Team Members
+
+This project was developed as a team collaboration:
+
+- [Ghala M Mansour](https://github.com/ghalamansour)  
+- [Yara Alsiamy](https://github.com/yaraalsiamy1)
+- Joud Alharthi
